@@ -1,6 +1,3 @@
-name: fxdiv
-title: division via fixed-point multiplication by inverse
-license: MIT
-deps:
-  - name: googletest
-  - name: googlebenchmark
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e9b83a473b07feacae8991de8d34c5cd78e37218d0c35ae2fc2868ec1786453
+size 136
